@@ -1,7 +1,4 @@
 `timescale 1ns / 1ps
-// Code your testbench here
-// or browse Examples
-`timescale 1ns/1ps
 module project_tb;
   reg clk;
   reg rst;
